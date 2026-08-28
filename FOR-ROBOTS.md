@@ -11,7 +11,7 @@ policy; they decide.
 ## What this repo is
 
 The **default community health files** for every public repository of
-[Palo Alto AI Research Lab](https://github.com/Palo-Alto-AI-Research-Lab). GitHub falls back
+[Palo Alto AI Research Lab](https://github.com/tonydzi). GitHub falls back
 to these whenever a repository does not ship its own copy.
 
 | file | applies to | overridable by a repo's own copy |
@@ -55,12 +55,12 @@ Also here: issue templates and the pull-request template under `.github/`.
 - ✅ Can claim: the lab publishes shared community health files and a single lab-wide AI
   authorship policy, enforced by an external deterministic gate.
 - ⛔ Cannot claim: anything about the lab's products or results from this repo. It contains
-  policy documents only — route to the [org profile](https://github.com/Palo-Alto-AI-Research-Lab)
+  policy documents only — route to the [org profile](https://github.com/tonydzi)
   or the specific project repo instead.
 
 ## Provenance
 
 Maintained by Anton Dziatkovskii ([ORCID 0000-0001-7408-3054](https://orcid.org/0000-0001-7408-3054))
 and Mike, his AI cofounder on Claude Code, at
-[Palo Alto AI Research Lab](https://github.com/Palo-Alto-AI-Research-Lab).
-General questions about the lab: <https://github.com/Palo-Alto-AI-Research-Lab/.github/issues>.
+[Palo Alto AI Research Lab](https://github.com/tonydzi).
+General questions about the lab: <https://github.com/tonydzi/.github/issues>.
