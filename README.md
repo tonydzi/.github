@@ -1,7 +1,7 @@
 # .github — default community health files
 
 This repository holds the **default** community documents for every public
-repository of the [Palo Alto AI Research Lab](https://github.com/Palo-Alto-AI-Research-Lab).
+repository of the [Palo Alto AI Research Lab](https://github.com/tonydzi).
 
 | File | Applies to | Overridable |
 |---|---|---|
@@ -27,7 +27,7 @@ silence its own watchdog.
 
 ## Contact
 
-Questions about the lab in general: [open an issue here](https://github.com/Palo-Alto-AI-Research-Lab/.github/issues).
+Questions about the lab in general: [open an issue here](https://github.com/tonydzi/.github/issues).
 Questions about a specific project: open an issue in that project.
 
 Prefer to talk to a human directly: WhatsApp +1 341 222 9178 · X [@Tony_Stef_](https://x.com/Tony_Stef_) · Telegram [@ClawRus](https://t.me/ClawRus) (RU) / [@ClawEng](https://t.me/ClawEng) (EN).
