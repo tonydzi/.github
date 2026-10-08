@@ -22,7 +22,7 @@ Silence is a bug on our side; ping the thread if we go quiet.
 
 ## What this is
 
-An independent, self-funded lab: one founder and a fleet of AI agents, building
+An independent, self-funded lab: one engineer running operations and a fleet of AI agents, building
 in public and giving the method away. There is no support contract, no SLA and
 no paywall — what you get is an honest answer from the people who actually built
 the thing.
