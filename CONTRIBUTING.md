@@ -47,6 +47,9 @@ nobody's evening gets wasted.
 
 - **An answer within 48 hours** on every issue and PR, including "no, and here is why".
   Our silence is our bug — ping the thread, it is not rude.
+- **The first reply may come from Mycroft**, the lab's synthetic AI co-founder. It always says so in
+  its first line, it only acknowledges and reports what a machine can check (files, CI, links), and it
+  merges nothing except one-line additions to our `awesome-*` lists. Code decisions stay with a human.
 - **A review that reads your code**, not a drive-by nit.
 - **A merge or a real reason.** A PR that dies quietly in the queue is a failure on our side.
 
